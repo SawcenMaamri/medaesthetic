@@ -1,1 +1,1 @@
-Medesthetic website
+The front of Medesthetic website
